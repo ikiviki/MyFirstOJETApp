@@ -6,7 +6,7 @@
     "@oracle/oraclejet": "~15.0.0"
   },
   "devDependencies": {
-    "@oracle/oraclejet-tooling": "~14.1.2"
+    "@oracle/oraclejet-tooling": "~20.0.0"
   },
   "engines": {
     "node": ">=0.10.0"
